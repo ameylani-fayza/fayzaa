@@ -1,0 +1,1 @@
+print ("aku lagi belajar ngoding")
